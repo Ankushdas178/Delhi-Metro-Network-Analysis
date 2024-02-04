@@ -6,7 +6,7 @@ This project aims to analyze the Delhi Metro network to achieve various objectiv
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LC-n72mwIaq1PDRAS1dEPLQpqJNg6CD_?usp=sharing)
 
-[*If the above button isn't working, [Click here](https://colab.research.google.com/drive/1LC-n72mwIaq1PDRAS1dEPLQpqJNg6CD_?usp=sharing) to go to the Google Colab file.]
+[*If the above button isn't working, [```Click here```](https://colab.research.google.com/drive/1LC-n72mwIaq1PDRAS1dEPLQpqJNg6CD_?usp=sharing) to go to the Google Colab file.]
 
 Below is the process we can follow for the task of Metro Network Analysis of Delhi:
 
