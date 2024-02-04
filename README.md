@@ -5,6 +5,7 @@
 This project aims to analyze the Delhi Metro network to achieve various objectives such as optimizing routes, reducing congestion, improving passenger flow, and understanding travel patterns. By employing machine learning and data science techniques, we aim to derive insights that can enhance the efficiency and effectiveness of the Delhi Metro system.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LC-n72mwIaq1PDRAS1dEPLQpqJNg6CD_?usp=sharing)
+
 [*If the above button isn't working, [Click here](https://colab.research.google.com/drive/1LC-n72mwIaq1PDRAS1dEPLQpqJNg6CD_?usp=sharing) to go to the Google Colab file.]
 
 Below is the process we can follow for the task of Metro Network Analysis of Delhi:
@@ -17,12 +18,12 @@ Below is the process we can follow for the task of Metro Network Analysis of Del
 
 The provided dataset contains detailed information about the Delhi Metro network, one of the largest and busiest urban transit systems in the world. Key features of the dataset include:
 
-Station Information: Names and IDs of metro stations.
-Geographical Coordinates: Latitude and longitude of each station.
-Line Information: The specific metro line each station belongs to.
-Distance Data: The distance of each station from the start of its line.
-Station Layout: Type of station layout (e.g., Elevated, Underground, At-Grade).
-Opening Date: Date of inauguration of each station.
+- **Station Information:** Names and IDs of metro stations.
+- **Geographical Coordinates:** Latitude and longitude of each station.
+- **Line Information:** The specific metro line each station belongs to.
+- **Distance Data:** The distance of each station from the start of its line.
+- **Station Layout:** Type of station layout (e.g., Elevated, Underground, At-Grade).
+- **Opening Date:** Date of inauguration of each station.
 
 <img width="1078" alt="image" src="https://github.com/Ankushdas178/Delhi-Metro-Network-Analysis/assets/58916385/cc842b31-7b15-45a9-a2ce-7bc7cd6135ea">
 
