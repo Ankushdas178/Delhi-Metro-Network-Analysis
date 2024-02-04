@@ -34,6 +34,6 @@ Opening Date: Date of inauguration of each station.
 
 ## Acknowledgments
 
-- Special thanks to the Delhi Metro Rail Corporation (DMRC) <img width="15" height="15" src="https://github.com/Ankushdas178/Delhi-Metro-Network-Analysis/assets/58916385/f24927f9-d200-4bd4-9abb-c12c900c6ced">
+- Special thanks to the Delhi Metro Rail Corporation (DMRC) <img width="20" height="20" src="https://github.com/Ankushdas178/Delhi-Metro-Network-Analysis/assets/58916385/f24927f9-d200-4bd4-9abb-c12c900c6ced">
  for providing valuable data and insights.
 - Inspired by similar projects in the field of transportation and urban analytics.
