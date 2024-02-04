@@ -1,4 +1,4 @@
-![image](https://github.com/Ankushdas178/Delhi-Metro-Network-Analysis/assets/58916385/f24927f9-d200-4bd4-9abb-c12c900c6ced)# Delhi-Metro-Network-Analysis
+# Delhi-Metro-Network-Analysis
 
 ## Overview
 
@@ -34,6 +34,6 @@ Opening Date: Date of inauguration of each station.
 
 ## Acknowledgments
 
-- Special thanks to the Delhi Metro Rail Corporation (DMRC) ![Delhi_Metro_logo svg](https://github.com/Ankushdas178/Delhi-Metro-Network-Analysis/assets/58916385/769cda92-8fb1-4620-a64c-ca98b0b32109)
+- Special thanks to the Delhi Metro Rail Corporation (DMRC) <img width="5" height="5" src="https://github.com/Ankushdas178/Delhi-Metro-Network-Analysis/assets/58916385/f24927f9-d200-4bd4-9abb-c12c900c6ced">
  for providing valuable data and insights.
 - Inspired by similar projects in the field of transportation and urban analytics.
