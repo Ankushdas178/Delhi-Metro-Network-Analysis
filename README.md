@@ -1,4 +1,4 @@
-# Delhi-Metro-Network-Analysis
+![image](https://github.com/Ankushdas178/Delhi-Metro-Network-Analysis/assets/58916385/f24927f9-d200-4bd4-9abb-c12c900c6ced)# Delhi-Metro-Network-Analysis
 
 ## Overview
 
@@ -15,6 +15,15 @@ Below is the process we can follow for the task of Metro Network Analysis of Del
 - Create visual representations of the network, such as route maps, passenger flow charts, or heat maps of station congestion.
 - Analyze how effectively the network handles passenger traffic and meets operational targets.
 
+The provided dataset contains detailed information about the Delhi Metro network, one of the largest and busiest urban transit systems in the world. Key features of the dataset include:
+
+Station Information: Names and IDs of metro stations.
+Geographical Coordinates: Latitude and longitude of each station.
+Line Information: The specific metro line each station belongs to.
+Distance Data: The distance of each station from the start of its line.
+Station Layout: Type of station layout (e.g., Elevated, Underground, At-Grade).
+Opening Date: Date of inauguration of each station.
+
 <img width="1078" alt="image" src="https://github.com/Ankushdas178/Delhi-Metro-Network-Analysis/assets/58916385/cc842b31-7b15-45a9-a2ce-7bc7cd6135ea">
 
 
@@ -25,5 +34,6 @@ Below is the process we can follow for the task of Metro Network Analysis of Del
 
 ## Acknowledgments
 
-- Special thanks to the Delhi Metro Rail Corporation (DMRC) for providing valuable data and insights.
+- Special thanks to the Delhi Metro Rail Corporation (DMRC) ![Delhi_Metro_logo svg](https://github.com/Ankushdas178/Delhi-Metro-Network-Analysis/assets/58916385/769cda92-8fb1-4620-a64c-ca98b0b32109)
+ for providing valuable data and insights.
 - Inspired by similar projects in the field of transportation and urban analytics.
